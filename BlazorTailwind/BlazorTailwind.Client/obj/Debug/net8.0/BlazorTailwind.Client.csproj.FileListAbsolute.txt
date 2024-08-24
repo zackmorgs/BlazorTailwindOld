@@ -1036,3 +1036,4 @@ C:\Users\Zack\source\repos\BlazorTailwind\BlazorTailwind\BlazorTailwind.Client\o
 C:\Users\Zack\source\repos\BlazorTailwind\BlazorTailwind\BlazorTailwind.Client\obj\Debug\net8.0\refint\BlazorTailwind.Client.dll
 C:\Users\Zack\source\repos\BlazorTailwind\BlazorTailwind\BlazorTailwind.Client\obj\Debug\net8.0\BlazorTailwind.Client.pdb
 C:\Users\Zack\source\repos\BlazorTailwind\BlazorTailwind\BlazorTailwind.Client\obj\Debug\net8.0\ref\BlazorTailwind.Client.dll
+C:\Users\Zack\source\repos\BlazorTailwind\BlazorTailwind\BlazorTailwind.Client\obj\Debug\net8.0\BlazorTailwind.Client.sourcelink.json

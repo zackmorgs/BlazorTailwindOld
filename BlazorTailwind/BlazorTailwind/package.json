@@ -7,7 +7,7 @@
   },
   "scripts" : {
     "start" : "npm-run-all --parallel watch:css watch:dotnet",
-    "watch:css" : "tailwindcss -i ./wwwroot/app.scss -o ./wwwroot/app.css --watch",
+    "watch:css" : "tailwindcss -i ./wwwroot/app.css -o ./wwwroot/app.min.css --watch",
     "watch:dotnet" : "dotnet watch run"
   }
 }
