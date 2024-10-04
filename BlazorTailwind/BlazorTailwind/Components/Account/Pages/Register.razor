@@ -15,42 +15,48 @@
 @inject NavigationManager NavigationManager
 @inject IdentityRedirectManager RedirectManager
 
-<PageTitle>Register</PageTitle>
+<header class="hero">
+    <div class="w-full max-w-md mx-auto">
+        <PageTitle>Register</PageTitle>
+        <h1 class="text-3xl font-semibold mb-6">Register</h1>
+    </div>
+</header>
 
-<h1>Register</h1>
-
-<div class="row">
-    <div class="col-md-4">
+<div class="flex flex-col items-center justify-center">
+    <div class="w-full max-w-md bg-white p-4 rounded-lg shadow-md">
         <StatusMessage Message="@Message" />
         <EditForm Model="Input" asp-route-returnUrl="@ReturnUrl" method="post" OnValidSubmit="RegisterUser" FormName="register">
             <DataAnnotationsValidator />
-            <h2>Create a new account.</h2>
-            <hr />
-            <ValidationSummary class="text-danger" role="alert" />
-            <div class="form-floating mb-3">
-                <InputText @bind-Value="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
-                <label for="email">Email</label>
-                <ValidationMessage For="() => Input.Email" class="text-danger" />
+            <h2 class="text-xl font-medium mb-4">Create a new account.</h2>
+            <hr class="mb-4" />
+            <ValidationSummary class="text-red-500" role="alert" />
+
+            <div class="mb-4">
+                <label for="email" class="block text-sm font-medium text-gray-700">Email</label>
+                <InputText @bind-Value="Input.Email" class="mt-1 block w-full p-3 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                <ValidationMessage For="() => Input.Email" class="text-red-500 mt-1" />
             </div>
-            <div class="form-floating mb-3">
-                <InputText type="password" @bind-Value="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
-                <label for="password">Password</label>
-                <ValidationMessage For="() => Input.Password" class="text-danger" />
+
+            <div class="mb-4">
+                <label for="password" class="block text-sm font-medium text-gray-700">Password</label>
+                <InputText type="password" @bind-Value="Input.Password" class="mt-1 block w-full p-3 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <ValidationMessage For="() => Input.Password" class="text-red-500 mt-1" />
             </div>
-            <div class="form-floating mb-3">
-                <InputText type="password" @bind-Value="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
-                <label for="confirm-password">Confirm Password</label>
-                <ValidationMessage For="() => Input.ConfirmPassword" class="text-danger" />
+
+            <div class="mb-4">
+                <label for="confirm-password" class="block text-sm font-medium text-gray-700">Confirm Password</label>
+                <InputText type="password" @bind-Value="Input.ConfirmPassword" class="mt-1 block w-full p-3 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <ValidationMessage For="() => Input.ConfirmPassword" class="text-red-500 mt-1" />
             </div>
-            <button type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+
+            <button type="submit" class="w-full bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600 focus:ring-4 focus:ring-blue-300">Register</button>
         </EditForm>
     </div>
-    <div class="col-md-6 col-md-offset-2">
-        <section>
-            <h3>Use another service to register.</h3>
-            <hr />
-            <ExternalLoginPicker />
-        </section>
+
+    <div class="w-full max-w-md mt-6 bg-white p-8 rounded-lg shadow-md">
+        <h3 class="text-xl font-medium mb-4">Use another service to register.</h3>
+        <hr class="mb-4" />
+        <ExternalLoginPicker />
     </div>
 </div>
 
