@@ -1,40 +1,47 @@
 ﻿@page "/weather"
 @attribute [StreamRendering]
 
-<PageTitle>Weather</PageTitle>
+<header class="hero">
+    <div class="w-full mx-auto">
+        @* <PageTitle>Weather</PageTitle> *@
 
-<h1>Weather</h1>
+        <h1 class="text-2xl font-bold mb-4">Weather</h1>
 
-<p>This component demonstrates showing data.</p>
-
-@if (forecasts == null)
-{
-    <p><em>Loading...</em></p>
-}
-else
-{
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Date</th>
-                <th>Temp. (C)</th>
-                <th>Temp. (F)</th>
-                <th>Summary</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var forecast in forecasts)
-            {
-                <tr>
-                    <td>@forecast.Date.ToShortDateString()</td>
-                    <td>@forecast.TemperatureC</td>
-                    <td>@forecast.TemperatureF</td>
-                    <td>@forecast.Summary</td>
-                </tr>
-            }
-        </tbody>
-    </table>
-}
+        <p>This component demonstrates showing data.</p>
+    </div>
+</header>
+<section>
+    <div class="mx-auto p-4">
+        @if (forecasts == null)
+        {
+            <p><em>Loading...</em></p>
+        }
+        else
+        {
+            <table class="min-w-full table-auto border-collapse">
+                <thead>
+                    <tr class="bg-gray-200 text-left">
+                        <th class="px-4 py-2 border">Date</th>
+                        <th class="px-4 py-2 border">Temp. (C)</th>
+                        <th class="px-4 py-2 border">Temp. (F)</th>
+                        <th class="px-4 py-2 border">Summary</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var forecast in forecasts)
+                    {
+                        <tr class="odd:bg-white even:bg-gray-100">
+                            <td class="px-4 py-2 border">@forecast.Date.ToShortDateString()</td>
+                            <td class="px-4 py-2 border">@forecast.TemperatureC</td>
+                            <td class="px-4 py-2 border">@forecast.TemperatureF</td>
+                            <td class="px-4 py-2 border">@forecast.Summary</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</section>
 
 @code {
     private WeatherForecast[]? forecasts;
@@ -45,13 +52,14 @@ else
         await Task.Delay(500);
 
         var startDate = DateOnly.FromDateTime(DateTime.Now);
-        var summaries = new[] { "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" };
+        var summaries = new[] { "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering",
+"Scorching" };
         forecasts = Enumerable.Range(1, 5).Select(index => new WeatherForecast
-        {
-            Date = startDate.AddDays(index),
-            TemperatureC = Random.Shared.Next(-20, 55),
-            Summary = summaries[Random.Shared.Next(summaries.Length)]
-        }).ToArray();
+            {
+                Date = startDate.AddDays(index),
+                TemperatureC = Random.Shared.Next(-20, 55),
+                Summary = summaries[Random.Shared.Next(summaries.Length)]
+            }).ToArray();
     }
 
     private class WeatherForecast

@@ -1,5 +1,5 @@
-/BlazorTailwind/BlazorTailwind/node_modules
+/BlazorTailwind/BlazorTailwind/node_modules/
 /BlazorTailwind/BlazorTailwind/bin/
-/BlazorTailwind/BlazorTailwind/obj
-/BlazorTailwind/BlazorTailwind.Client/bin
-/BlazorTailwind/BlazorTailwind.Client/obj
+/BlazorTailwind/BlazorTailwind/obj/
+/BlazorTailwind/BlazorTailwind.Client/bin/
+/BlazorTailwind/BlazorTailwind.Client/obj/

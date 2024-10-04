@@ -2,7 +2,9 @@
 module.exports = {
   content: [
     "./Components/**/*.razor",
-    "./Pages/**/*.razor"
+    "./Pages/**/*.razor",
+    "./../BlazorTailwind.Client/Pages",
+    "./../BlazorTailwind.Client/Components",
   ],
   theme: {
     extend: {},

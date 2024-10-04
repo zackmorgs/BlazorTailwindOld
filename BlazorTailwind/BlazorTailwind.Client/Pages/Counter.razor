@@ -3,11 +3,20 @@
 
 <PageTitle>Counter</PageTitle>
 
-<h1>Counter</h1>
+<header class="hero">
+    <div class="w-full max-w-6xl mx-auto">
+        <h1 class="text-2xl font-bold mb-4">Counter</h1>
+    </div>
+</header>
+<section>
+    <div class="w-full max-w-6xl mx-auto p-4">
+        <p role="status" class="text-lg">Current count: @currentCount</p>
 
-<p role="status">Current count: @currentCount</p>
-
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+        <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" @onclick="IncrementCount">
+            Click me
+        </button>
+    </div>
+</section>
 
 @code {
     private int currentCount = 0;

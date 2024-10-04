@@ -1,19 +1,21 @@
 ﻿@page "/Account/Login"
 
-@using System.ComponentModel.DataAnnotations
-@using Microsoft.AspNetCore.Authentication
-@using Microsoft.AspNetCore.Identity
-@using BlazorTailwind.Data
+@using System.ComponentModel.DataAnnotations;
+@using Microsoft.AspNetCore.Authentication;
+@using Microsoft.AspNetCore.Identity;
+@using BlazorTailwind.Data;
 
 @inject SignInManager<ApplicationUser> SignInManager
 @inject ILogger<Login> Logger
 @inject NavigationManager NavigationManager
 @inject IdentityRedirectManager RedirectManager
 
-<header class="hero">.
-    <PageTitle>Log in</PageTitle>
-    <h1 class="text-3xl font-semibold mb-4">Log in</h1>
-    <p class="text-lg">Log in below.</p>
+<header class="hero mb-4">.
+    <div class="w-full max-w-md mx-auto">
+        <PageTitle>Log in</PageTitle>
+        <h1 class="text-3xl font-semibold mb-4">Log in</h1>
+        <p class="text-lg">Log in below.</p>
+    </div>
 </header>
 
 <div class="flex flex-col items-center justify-center">
