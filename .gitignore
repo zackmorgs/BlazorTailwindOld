@@ -1,3 +1,5 @@
-/BlazorTailwind/BlazorTailwind/bin/Debug/net8.0
+/BlazorTailwind/BlazorTailwind/node_modules
+/BlazorTailwind/BlazorTailwind/bin/
 /BlazorTailwind/BlazorTailwind/obj
-/BlazorTailwind/BlazorTailwind/node_modules 
+/BlazorTailwind/BlazorTailwind.Client/bin
+/BlazorTailwind/BlazorTailwind.Client/obj

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v06I3s3bDTZd4GogJdA7X39eCkFXSNversnmehk6gy8=",
+  "Hash": "z6kBwJzVIrlo4Rkmn6GeX2ZBR7I/sWZ9Mz0WejHf0GY=",
   "Source": "BlazorTailwind.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.7.ami7r3k1e3.js",
+      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.epb9qzte2m.js",
       "SourceId": "BlazorTailwind.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.7.ami7r3k1e3.js",
+      "RelativePath": "_framework/dotnet.native.8.0.8.epb9qzte2m.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,7 +166,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.le4vrqq2bj.js",
+      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.30poa4ksvy.js",
       "SourceId": "BlazorTailwind.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.7.le4vrqq2bj.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.8.30poa4ksvy.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -280,7 +280,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -4159,25 +4159,6 @@
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Timer.wasm"
     },
     {
-      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\2fsqzso49i.gz",
-      "SourceId": "BlazorTailwind.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\2fyshbnybf.gz",
       "SourceId": "BlazorTailwind.Client",
       "SourceType": "Computed",
@@ -4273,25 +4254,6 @@
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Globalization.wasm"
     },
     {
-      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\2tyy75e3xd.gz",
-      "SourceId": "BlazorTailwind.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\2x0c2p0ho4.gz",
       "SourceId": "BlazorTailwind.Client",
       "SourceType": "Computed",
@@ -4328,6 +4290,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.DataSetExtensions.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\30poa4ksvy.gz",
+      "SourceId": "BlazorTailwind.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.8.30poa4ksvy.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.30poa4ksvy.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.30poa4ksvy.js"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\34jzew3nss.gz",
@@ -4615,6 +4596,25 @@
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.wasm"
     },
     {
+      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\546lou16mr.gz",
+      "SourceId": "BlazorTailwind.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\54u5snbajj.gz",
       "SourceId": "BlazorTailwind.Client",
       "SourceType": "Computed",
@@ -4632,25 +4632,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Extensions.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\56cyw2o5m3.gz",
-      "SourceId": "BlazorTailwind.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\5d0awyij1c.gz",
@@ -4805,6 +4786,25 @@
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Handles.wasm"
     },
     {
+      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\6x6uwjju01.gz",
+      "SourceId": "BlazorTailwind.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\7cx0c4xpve.gz",
       "SourceId": "BlazorTailwind.Client",
       "SourceType": "Computed",
@@ -4879,25 +4879,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\8809aq75kv.gz",
-      "SourceId": "BlazorTailwind.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\8mr1f861el.gz",
@@ -5107,25 +5088,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\ami7r3k1e3.gz",
-      "SourceId": "BlazorTailwind.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.7.ami7r3k1e3.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.7.ami7r3k1e3.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.7.ami7r3k1e3.js"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\au0v0s2n4d.gz",
@@ -5546,6 +5508,25 @@
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Extensions.wasm"
     },
     {
+      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\epb9qzte2m.gz",
+      "SourceId": "BlazorTailwind.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.8.epb9qzte2m.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.epb9qzte2m.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.epb9qzte2m.js"
+    },
+    {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\es43xcawjk.gz",
       "SourceId": "BlazorTailwind.Client",
       "SourceType": "Computed",
@@ -5715,6 +5696,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.IsolatedStorage.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\gmsh58gxkf.gz",
+      "SourceId": "BlazorTailwind.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\gn6z3dk072.gz",
@@ -6059,25 +6059,6 @@
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Channels.wasm"
     },
     {
-      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\j5h26cx133.gz",
-      "SourceId": "BlazorTailwind.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
-    },
-    {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\joajht7bke.gz",
       "SourceId": "BlazorTailwind.Client",
       "SourceType": "Computed",
@@ -6133,6 +6114,44 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\k0amtxknur.gz",
+      "SourceId": "BlazorTailwind.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
+      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\kaduyn1uou.gz",
+      "SourceId": "BlazorTailwind.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\kl6lwdzbmf.gz",
@@ -6192,25 +6211,6 @@
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.wasm"
     },
     {
-      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\l1bf9xw3z4.gz",
-      "SourceId": "BlazorTailwind.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\l7ju74wzmx.gz",
       "SourceId": "BlazorTailwind.Client",
       "SourceType": "Computed",
@@ -6266,25 +6266,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\le4vrqq2bj.gz",
-      "SourceId": "BlazorTailwind.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.7.le4vrqq2bj.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.le4vrqq2bj.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.le4vrqq2bj.js"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\ljbghnudsq.gz",
@@ -6418,6 +6399,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Drawing.Primitives.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\n9ggd5duho.gz",
+      "SourceId": "BlazorTailwind.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\nzt3d9w7it.gz",
@@ -7294,25 +7294,6 @@
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.wasm"
     },
     {
-      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\uk0b773u6f.gz",
-      "SourceId": "BlazorTailwind.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
-    },
-    {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\um74msrp4z.gz",
       "SourceId": "BlazorTailwind.Client",
       "SourceType": "Computed",
@@ -7634,6 +7615,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.AccessControl.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\y5zpp7w5ki.gz",
+      "SourceId": "BlazorTailwind.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\obj\\Debug\\net8.0\\compressed\\yaktglxwlt.gz",

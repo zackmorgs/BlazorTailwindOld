@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sF8UBXXYe60=",
+  "dgSpecHash": "sep8psmYD6w=",
   "success": true,
   "projectFilePath": "C:\\Users\\Zack\\source\\repos\\BlazorTailwind\\BlazorTailwind\\BlazorTailwind.Client\\BlazorTailwind.Client.csproj",
   "expectedPackageFiles": [
@@ -29,12 +29,12 @@
     "C:\\Users\\Zack\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Zack\\.nuget\\packages\\microsoft.jsinterop\\8.0.7\\microsoft.jsinterop.8.0.7.nupkg.sha512",
     "C:\\Users\\Zack\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.7\\microsoft.jsinterop.webassembly.8.0.7.nupkg.sha512",
-    "C:\\Users\\Zack\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
-    "C:\\Users\\Zack\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.7\\microsoft.net.sdk.webassembly.pack.8.0.7.nupkg.sha512",
+    "C:\\Users\\Zack\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\Zack\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.8\\microsoft.net.sdk.webassembly.pack.8.0.8.nupkg.sha512",
     "C:\\Users\\Zack\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\Zack\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\Zack\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.7.nupkg.sha512"
+    "C:\\Users\\Zack\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.8.nupkg.sha512"
   ],
   "logs": []
 }

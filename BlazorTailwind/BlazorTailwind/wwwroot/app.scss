@@ -2,3 +2,95 @@
 @tailwind components;
 @tailwind utilities;
 
+#nav_main {
+    z-index:2;
+}
+
+#nav_burger {
+    position:relative;
+    width:2rem;
+    cursor:pointer;
+
+    span {
+        position:absolute;
+        display: block;
+        width: 24px;
+        height: 3px;
+        background-color: currentColor;
+        left:4px;
+        right:4px;
+    }
+
+    span:first-child {
+        top: 4px;
+    }
+
+    span:nth-child(2) {
+        bottom: 12px;
+    }
+
+    span:last-child {
+        bottom: 4px;        
+    }
+}
+
+.open #nav_burger {
+    span:first-child {
+        transform: rotate(45deg);
+        top: 13px;
+    }
+    
+    span:nth-child(2) {
+        display:none;
+    }
+
+    span:last-child {
+        transform: rotate(-45deg);
+        bottom: 12px;
+    }
+}
+
+#navbar {
+    background-color: white;
+    padding:1rem 1rem 0.5rem;
+}
+
+#nav_items {
+    background:white;
+    padding:0.5rem 1rem 1rem;
+    display:none;
+}
+
+.open #nav_items {
+    display:block;
+}
+
+main {
+    padding-top:52px;
+}
+
+h1 {
+    font-size:3rem;
+    line-height:1em;
+}
+h2 {
+    font-size:2rem;
+    line-height:1em;
+}
+h3 {
+    font-size:1.5rem;
+    line-height:1em;
+}
+h4 {
+    font-size:1.25rem;
+    line-height:1em;
+}
+
+p {
+    margin:0.5rem 0;
+}
+
+.hero {
+    background-color: #f8f8f8;
+    padding: 2rem 1rem;
+}
